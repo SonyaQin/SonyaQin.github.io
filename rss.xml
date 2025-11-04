@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="http://sonya.ekkosonya.cn/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="http://sonya.ekkosonya.cn/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Sonya&amp;apos;s Blog</title>
+    <link>http://sonya.ekkosonya.cn/</link>
+    <description>笔记记录</description>
+    <language>zh-CN</language>
+    <pubDate>Tue, 04 Nov 2025 13:21:13 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2025 13:21:13 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>daily</category>
+    <item>
+      <title>daily1</title>
+      <link>http://sonya.ekkosonya.cn/daily/d1.html</link>
+      <guid>http://sonya.ekkosonya.cn/daily/d1.html</guid>
+      <source url="http://sonya.ekkosonya.cn/rss.xml">daily1</source>
+      <description>a+b=c </description>
+      <category>daily</category>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p><span v-pre="" class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mi>c</mi></mrow><annotation encoding="application/x-tex">a+b=c</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">b</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">c</span></span></span></span></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: http://sonya.ekkosonya.cn/sitemap.xml
